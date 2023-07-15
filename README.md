@@ -1,6 +1,6 @@
 # DU-ShieldScreens
 
-!(./Shield.png)
+![alt text](/Shield.png)
 Original by RobRocketpants
 https://github.com/RobRocketpants/DU-ShieldScreens
 
