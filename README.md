@@ -1,5 +1,5 @@
 # DU-ShieldScreens
-https://raw.githubusercontent.com/RyanPryde/DU-ShieldScreens/main/Shield.png
+!(https://raw.githubusercontent.com/RyanPryde/DU-ShieldScreens/main/Shield.png)
 Original by RobRocketpants
 https://github.com/RobRocketpants/DU-ShieldScreens
 
