@@ -5,4 +5,7 @@ Original by RobRocketpants
 https://github.com/RobRocketpants/DU-ShieldScreens
 
 
-Fixes for Patch 1.4.0
+Fixed for Patch 1.4.0 changes
+
+Soundpack support added.
+RGB DB Sync option.
